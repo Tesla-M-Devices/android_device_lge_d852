@@ -6,3 +6,11 @@ telephony.lteOnCdmaDevice=1
 
 # Bluetooth
 qcom.bluetooth.soc=smd
+
+# Hardware Information
+ro.device.chipset=Qualcomm MSM8974PRO-AC Snapdragon 801
+ro.device.cpu=32-bit Quad-core ARM Krait 400 CPU @ 2.5 Ghz
+ro.device.gpu=Qualcomm Adreno 330
+ro.device.rear_cam=13 MP
+ro.device.front_cam=2.1 MP
+ro.device.screen_res=1440x2560, 5.5"
